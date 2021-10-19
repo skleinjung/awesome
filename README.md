@@ -68,15 +68,18 @@ A collection of awesome things.
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server.
 - [sylvanld/action-storage](https://github.com/sylvanld/action-storage) - Store files on an orphan branch of a repo dedicated for static storage
+- [zentered/broken-link-checker](https://github.com/zentered/broken-link-checker) - A quick and simple GitHub Action that takes in the root URL for a website and crawls all of the pages on the sitemap.xml for broken links.
 
 ## TypeScript
 
+- [AnandChowdhary/notes-summary](https://github.com/AnandChowdhary/notes-summary) - 🗒️ Generate a README.md summary for your notes repository
 - [TroyAlford/react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [cschleiden/actions-linter](https://github.com/cschleiden/actions-linter) - Simple linter for GitHub Actions workflow YAML files.
 - [dot-i/k8s-operator-node](https://github.com/dot-i/k8s-operator-node) - NodeJS Kubernetes operator framework
 - [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets) - This action fetches secrets from Secret Manager and makes them available to later build steps via outputs.
 - [joerick/pr-labels-action](https://github.com/joerick/pr-labels-action) - A Github action that extracts labels from the PR that this build belongs to, and makes them available to other actions.
+- [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
