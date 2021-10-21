@@ -82,6 +82,8 @@ A collection of awesome things.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
+- [tibdex/auto-update](https://github.com/tibdex/auto-update) - 🔄 Automatically keep pull requests with auto-merge enabled up to date with their base branch
+- [tibdex/github-app-token](https://github.com/tibdex/github-app-token) - Impersonate a GitHub App in a GitHub Action
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 
 ## Misc
@@ -89,4 +91,5 @@ A collection of awesome things.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [cncf/artwork](https://github.com/cncf/artwork) - 🎨CNCF-related logos and artwork
 - [gitops-working-group/gitops-working-group-old](https://github.com/gitops-working-group/gitops-working-group-old) - Documenting the GitOps principles & other GitOps WG
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
