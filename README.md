@@ -25,7 +25,7 @@ A collection of awesome things.
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [drone-runners/drone-runner-kube](https://github.com/drone-runners/drone-runner-kube) - Drone runner that executes a pipeline using native Kubernetes resources
 - [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
-- [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
+- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
 
 ## HCL
 
