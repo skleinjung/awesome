@@ -5,6 +5,7 @@ A collection of awesome things.
 - [CSS](#css)
 - [Go](#go)
 - [HCL](#hcl)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -31,12 +32,17 @@ A collection of awesome things.
 
 - [wynsen/gcp-enterprise](https://github.com/wynsen/gcp-enterprise) - 
 
+## Java
+
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
+
 ## JavaScript
 
 - [CharlesStover/fetch-action-creator](https://github.com/CharlesStover/fetch-action-creator) - Fetches using standardized, four-part asynchronous actions for redux-thunk.
 - [DeKal/github-activity-readme](https://github.com/DeKal/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history.
 - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering
+- [deepakputhraya/action-pr-title](https://github.com/deepakputhraya/action-pr-title) - Github action to enforce Pull Request title conventions
 - [foo-software/binoculars-action](https://github.com/foo-software/binoculars-action) - A GitHub Action to measure web page SEO friendliness.
 - [gre/gl-react](https://github.com/gre/gl-react) - gl-react – React library to write and compose WebGL shaders
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
@@ -73,6 +79,7 @@ A collection of awesome things.
 ## TypeScript
 
 - [AnandChowdhary/notes-summary](https://github.com/AnandChowdhary/notes-summary) - 🗒️ Generate a README.md summary for your notes repository
+- [JulienKode/pull-request-name-linter-action](https://github.com/JulienKode/pull-request-name-linter-action) - ⚡️ Lint pull request name with commit lint. This is useful if you squash merge your pull requests ⚡️
 - [TroyAlford/react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [cschleiden/actions-linter](https://github.com/cschleiden/actions-linter) - Simple linter for GitHub Actions workflow YAML files.
