@@ -9,6 +9,7 @@ A collection of awesome things.
 - [JavaScript](#javascript)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Misc](#misc)
@@ -63,6 +64,10 @@ A collection of awesome things.
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
 - [shimewtr/submit_pull_request](https://github.com/shimewtr/submit_pull_request) - 
 - [tokusumi/markdown-embed-code](https://github.com/tokusumi/markdown-embed-code) - Action to synchronize "any" code in markdown with an external file. No more managing code as plain text.
+
+## Ruby
+
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 
 ## Shell
 
