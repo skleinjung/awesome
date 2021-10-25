@@ -51,6 +51,7 @@ A collection of awesome things.
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
 - [nashwaan/xml-js](https://github.com/nashwaan/xml-js) - Converter utility between XML text and Javascript object / JSON text.
 - [phish108/autotag-action](https://github.com/phish108/autotag-action) - A lightning fast autotagger for semver tagging in github actions
+- [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure
 - [skleinjung-forks/react-jsx-parser](https://github.com/skleinjung-forks/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - 
