@@ -46,6 +46,7 @@ A collection of awesome things.
 - [deepakputhraya/action-pr-title](https://github.com/deepakputhraya/action-pr-title) - Github action to enforce Pull Request title conventions
 - [foo-software/binoculars-action](https://github.com/foo-software/binoculars-action) - A GitHub Action to measure web page SEO friendliness.
 - [gre/gl-react](https://github.com/gre/gl-react) - gl-react – React library to write and compose WebGL shaders
+- [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [javajawa/remote-docker-tag](https://github.com/javajawa/remote-docker-tag) - Github Action to add more tags to an existing Docker image without pulling it.
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
@@ -55,6 +56,7 @@ A collection of awesome things.
 - [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure
 - [skleinjung-forks/react-jsx-parser](https://github.com/skleinjung-forks/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - 
+- [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 
 ## PowerShell
 
