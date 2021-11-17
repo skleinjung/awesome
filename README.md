@@ -55,7 +55,7 @@ A collection of awesome things.
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure
 - [skleinjung-forks/react-jsx-parser](https://github.com/skleinjung-forks/react-jsx-parser) - A React component which can parse JSX and output rendered React Components.
-- [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - 
+- [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 
 ## PowerShell
